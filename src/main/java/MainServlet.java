@@ -21,6 +21,7 @@ public class MainServlet extends HttpServlet {
     }
 
     //some comment
+    //some other comment
 
     /*@Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp)
