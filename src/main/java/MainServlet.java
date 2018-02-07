@@ -20,6 +20,8 @@ public class MainServlet extends HttpServlet {
         req.getRequestDispatcher("mypage.jsp").forward(req, resp);
     }
 
+    //some comment
+
     /*@Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
